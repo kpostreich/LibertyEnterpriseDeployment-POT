@@ -4,24 +4,25 @@
 ![](images/bcbs-sc.png)
 -->
 
-**Thursday, May 4, 2023** 
+**Friday, June 16, 2023** 
 
-Time: 9:30 pm - 5:30 pm (Eastern Time zone)
+Time: 8:30 pm - 4:30 pm (Mountain Daylight Time)
 
-
-
-  - This is a 1 day technical workshop.  
-  - Refer to the **labs** menu item from the left-navigation section to access the labs an environment. 
+This is a 1 day technical workshop.  
+  
+  - Refer to the **"Workshop labs"** menu item from the left-navigation section to access the lab guides and lab environment. 
+  
+  - Refer to the **"Accessing lab environment"** menu item for details on how to access the lab environment. 
   
   
 <h3 style="color:black">Proposed Agenda</h3>
-![](images/agenda.png)
+![](images/agenda-2.png)
 
 
 
 <h3 style="color:black">Presentation Material</h3>
 
-[http://TBD](http://TBD)
+[Material shared with attendees](https://ibm.box.com/v/Liberty-Deploy-POT-share)
 
 
 <h3 style="color:black">Hands-on Labs</h3>

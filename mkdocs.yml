@@ -1,4 +1,4 @@
-site_name: Liberty Enterpise Deployment PoT on VMs
+site_name: Liberty Enterpise Deployment PoT
 nav:
   - Home: index.md
   - Workshop Labs: day1.md
